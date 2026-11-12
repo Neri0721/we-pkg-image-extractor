@@ -1,0 +1,11 @@
+{
+  "name": "we-pkg-image-extractor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Extract PNG/JPEG images from Wallpaper Engine scene.pkg files, fully in the browser",
+  "scripts": {
+    "test": "node test/test.js",
+    "build": "python build.py"
+  },
+  "license": "MIT"
+}
